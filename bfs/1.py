@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+# https://ac.nowcoder.com/acm/contest/49/G
 inf = 0x3f3f3f3f
 maxn = 501
 dirx = [0, 1, -1, 0]
